@@ -1,0 +1,20 @@
+{
+  "name": "plantuml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "chore": "git add -A; git status; git commit -m\"chore(autocommit): commited changes\"; git push;",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitty-io/plantuml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitty-io/plantuml/issues"
+  },
+  "homepage": "https://github.com/digitty-io/plantuml#readme"
+}

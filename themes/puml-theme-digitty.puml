@@ -5,7 +5,7 @@
 '' Author: Brett Schwarz
 '' Copyright (c) 2019 by Brett Schwarz
 
-!$THEME = "superhero-outline"
+!$THEME = "digitty"
 
 !if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "transparent"
@@ -17,25 +17,25 @@ skinparam useBetaStyle false
 ''
 '' Colors taken from the css file of the BS theme
 ''
-!$BLUE = "#DF691A"
-!$INDIGO = "#6610f2"
-!$PURPLE = "#6f42c1"
+!$BLUE = "#2DFEA9"
+!$INDIGO = "#6334F2"
+!$PURPLE = "#DD7DFF"
 !$PINK = "#e83e8c"
-!$RED = "#d9534f"
-!$ORANGE = "#f0ad4e"
-!$YELLOW = "#f0ad4e"
+!$RED = "#FF5E5E"
+!$ORANGE = "#FFB443"
+!$YELLOW = "#FFD600"
 !$GREEN = "#5cb85c"
 !$TEAL = "#20c997"
-!$CYAN = "#5bc0de"
+!$CYAN = "#39DBFF"
 !$WHITE = "#FFF"
 !$GRAY_LIGHT = "#222"
 !$GRAY = "#868e96"
 !$PRIMARY = "#DF691A"
 !$SECONDARY = "#4E5D6C"
-!$SUCCESS = "#5cb85c"
-!$INFO = "#5bc0de"
-!$WARNING = "#f0ad4e"
-!$DANGER = "#d9534f"
+!$SUCCESS = "#53a200"
+!$INFO = "#0172cb"
+!$WARNING = "#f9971e"
+!$DANGER = "#e02020"
 !$LIGHT = "#abb6c2"
 !$DARK = "#4E5D6C"
 
@@ -46,10 +46,10 @@ skinparam useBetaStyle false
 ''
 !$FGCOLOR = $WHITE
 !$PRIMARY_DARK = "#e58748"
-!$PRIMARY_LIGHT = "#b25415"
+!$PRIMARY_LIGHT = "#00FF75"
 !$PRIMARY_TEXT = $PRIMARY
-!$SECONDARY_DARK = "#717d89"
-!$SECONDARY_LIGHT = "#3e4a56"
+!$SECONDARY_DARK = "#DD7DFF"
+!$SECONDARY_LIGHT = "#DD7DFF"
 !$SECONDARY_TEXT = $SECONDARY_DARK
 !$INFO_DARK = "#7ccde5"
 !$INFO_LIGHT = "#499AB2"
