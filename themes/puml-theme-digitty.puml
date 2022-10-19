@@ -45,7 +45,7 @@ skinparam useBetaStyle false
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
 !$FGCOLOR = $WHITE
-!$PRIMARY_DARK = "#e58748"
+!$PRIMARY_DARK = "#2DFEA9"
 !$PRIMARY_LIGHT = "#00FF75"
 !$PRIMARY_TEXT = $PRIMARY
 !$SECONDARY_DARK = "#DD7DFF"
